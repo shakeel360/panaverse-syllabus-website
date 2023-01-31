@@ -1,2 +1,3 @@
-# panaverse-syllabus-website
-Syllabus website for Panaverse - Created as an assignment
+Website is in development phase.
+
+https://panaverse-syllabus.vercel.app
